@@ -1,6 +1,6 @@
 # gremlin
 
-Small script used to <strike>get revenge on a roommate</strike> simulate wireless service distruptions.
+Small script used to <strike>get revenge on a roommate</strike> simulate periodic wireless service distruptions.
 The script progressively steps through target list and sends deauth packets (100) per device (effectively
 denying service), then waits a set amount of time for <strike>(victim's hope to return)</strike> devices
 to reconnect, before recommencing disruptions.
