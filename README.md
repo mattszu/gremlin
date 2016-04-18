@@ -10,7 +10,7 @@ The script requires aircrack-ng suite and a compatible wireless adapter.
 Also requires a targets.txt in the same directory, which consists of:
 <br>
 <br>
-name_of_target_device mac_address_of_device mac_address_of_connected_AP
+<b>name_of_target_device mac_address_of_device mac_address_of_connected_AP</b>
 <br>
 <br>
 separated by single space
