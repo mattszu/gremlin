@@ -5,9 +5,9 @@ The script progressively steps through target list and sends deauth packets (100
 denying service), then waits a set amount of time for <strike>(victim's hope to return)</strike> devices
 to reconnect, before recommencing disruptions.
 
-The script requires aircrack-ng suite and a compatible wireless adapter.
+The script requires <b>aircrack-ng suite</b> and a <b>compatible wireless adapter</b>.
 
-Also requires a targets.txt in the same directory, which consists of:
+Also requires a <b>targets.txt</b> in the same directory, which consists of:
 <br>
 <br>
 <b>name_of_target_device mac_address_of_device mac_address_of_connected_AP</b>
