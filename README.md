@@ -1,6 +1,6 @@
 # gremlin
 
-Small script used to <strike>get revenge on a roommate</stirke> simulate wireless service distruptions.
+Small script used to <strike>get revenge on a roommate</strike> simulate wireless service distruptions.
 
 The script requires aircrack-ng suite and a compatible wireless adapter.
 
