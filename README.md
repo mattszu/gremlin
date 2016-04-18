@@ -5,6 +5,7 @@ Small script used to <strike>get revenge on a roommate</strike> simulate wireles
 The script requires aircrack-ng suite and a compatible wireless adapter.
 
 Also requires a targets.txt in the same directory, which consists of:
+<br>
 name_of_target_device mac_address_of_device mac_address_of_connected_AP
 
 all this information including mac of correspodning Access Point can be found via airodump
